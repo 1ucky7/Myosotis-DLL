@@ -101,7 +101,7 @@ rustup target add i686-pc-windows-msvc
 ### 更新
 
 202509
-转发模板存在bug导致无法转发，知识星球已更新
+修复转发模式bug
 
 
 ## 知识星球
